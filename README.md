@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="assets/img/fish.png">
+
 ## _`$ whoami`_
 
 <img style="padding-right: 50px;" width="50%" align="left" src="assets/img/me.jpg">
