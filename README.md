@@ -1,6 +1,6 @@
 ## _`$ whoami`_
 
-<img style="padding-right: 50px;" width="20%" align="left" src="assets/img/me.jpg">
+<img style="padding-right: 50px;" width="50%" align="left" src="assets/img/me.jpg">
 
 **Name:** Diogo Braz
 
