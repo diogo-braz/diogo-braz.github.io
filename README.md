@@ -2,7 +2,7 @@
 
 <img style="padding-right: 50px;" width="50%" align="left" src="assets/img/me.jpg">
 
-**Name:** Diogo Braz
+**Name:** Diogo Braz (a.k.a. norrköping)
 
 **Profession:** Junior Backend Software Engineer
 
