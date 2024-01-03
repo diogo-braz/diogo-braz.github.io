@@ -2,22 +2,24 @@
 
 <img style="padding-right: 50px;" width="50%" align="left" src="assets/img/me.jpg">
 
-**Name:** Diogo Braz (a.k.a. norrköping)
+**Name:** Diogo Braz (a.k.a. gracie)
 
-**Profession:** Junior Backend Software Engineer
+**Profession:** Mid Backend Software Engineer
 
 **Location:** Santos - São Paulo
 
 ---
 
-**Twitter:** <ins>[@diogo_korpe](https://twitter.com/diogo_korpe)</ins>
+**Github:** <ins>[diogo-braz](https://github.com/diogo-braz/)</ins>
 
-**Github:** <ins>[diogo-braz](https://github.com/diogo-braz)</ins>
+**LinkedIn:** <ins>[diogo-braz](https://www.linkedin.com/in/diogo-braz/)</ins>
 
-**LinkedIn:** <ins>[Diogo Braz](https://www.linkedin.com/in/diogo-braz/)</ins>
+**Google Developer:** <ins>[diogo-braz](https://g.dev/diogo-braz/)</ins>
+
+**Stackoverflow:** <ins>[diogo-braz](https://stackoverflow.com/users/21127922/diogo-braz)</ins>
 
 <br style="clear:left;" />
 
 ## _`$ cat about_me.txt`_
 
-I am currently studying computer science, I work in the development area but I want to migrate to the security area. I like to study reverse engineering, algorithm analysis and cryptography. In my spare time, I like to go to the gym, play basketball, and especially ride my motorcycle. Besides this, I like to listen mainly to rock and rap music.
+I'm currently immersed in the world of software engineering, with a focus on delving into realms like reverse engineering, algorithm analysis, and cryptography. During my downtime, you'll find me at the gym, cruising on my motorcycle, and honing my skills in jiu-jitsu. Beyond that, my playlist is dominated by the sounds of rock and rap music.
