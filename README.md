@@ -4,8 +4,6 @@
 
 **Name:** Diogo Braz (a.k.a. gracie)
 
-**Profession:** Mid Backend Software Engineer
-
 **Location:** Santos - São Paulo
 
 ---
